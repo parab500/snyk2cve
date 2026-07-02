@@ -1,13 +1,12 @@
 # snyk2cve
 
-
-
 [![Python](https://img.shields.io/badge/Python-3.10+-blue)]()
 [![License](https://img.shields.io/badge/License-MIT-green)]()
 [![GitHub stars](https://img.shields.io/github/stars/parab500/snyk2cve)]()
 [![GitHub forks](https://img.shields.io/github/forks/parab500/snyk2cve)]()
 [![GitHub issues](https://img.shields.io/github/issues/parab500/snyk2cve)]()
 
+---
 
 <p align="center">
 Python CLI for Security Researchers • Pentesters • Developers
