@@ -12,7 +12,7 @@
 Python CLI for Security Researchers • Pentesters • Developers
 </p>
 
-Extract and group CVEs from the **Snyk Vulnerability Database** by exact vulnerability name.
+Python CLI to extract and group CVEs from Snyk package advisories.
 
 The tool automatically discovers all advisories for a package, extracts associated CVEs, merges duplicate vulnerability names, and exports the results to a text file.
 
