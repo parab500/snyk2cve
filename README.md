@@ -1,5 +1,9 @@
 # snyk2cve
 
+<p align="center">
+Python CLI for Security Researchers • Pentesters • Developers
+</p>
+
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
 
