@@ -27,7 +27,7 @@ The tool automatically discovers all advisories for a package, extracts associat
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/snyk2cve.git
+git clone https://github.com/parab500/snyk2cve.git
 cd snyk2cve
 ```
 
