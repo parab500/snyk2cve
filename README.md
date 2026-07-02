@@ -44,13 +44,13 @@ pip install -r requirements.txt
 Interactive mode
 
 ```bash
-python3 snyk_cve.py
+python3 snyk2cve.py
 ```
 
 Command-line mode
 
 ```bash
-python3 snyk_cve.py https://security.snyk.io/package/npm/axios/0.21.4
+python3 snyk2cve.py https://security.snyk.io/package/npm/axios/0.21.4
 ```
 
 ---
