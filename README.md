@@ -139,4 +139,4 @@ Please respect Snyk's Terms of Service and avoid excessive automated requests.
 
 ## License
 
-MIT License
+snyk2cve is licensed under the <a href="/LICENSE">MIT License</a>
