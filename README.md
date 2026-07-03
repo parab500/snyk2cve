@@ -118,7 +118,7 @@ axios_0.21.4_cves.txt
 
 ---
 
-## What's New in v1.1
+## What's New in v1.1.0
 
 - Rich terminal UI
 - Progress bars
