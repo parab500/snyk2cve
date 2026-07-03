@@ -118,6 +118,17 @@ axios_0.21.4_cves.txt
 
 ---
 
+## What's New in v1.1
+
+- Rich terminal UI
+- Progress bars
+- Status indicators
+- Legacy advisory support
+- Better terminal output
+
+---
+
+
 ## Disclaimer
 
 This project is intended for educational, research, and defensive security purposes.
