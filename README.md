@@ -23,11 +23,14 @@ The tool automatically discovers all advisories for a package, extracts associat
 - Extracts CVEs from Snyk package pages
 - Groups advisories by exact vulnerability name
 - Merges duplicate CVEs
-- Prints "No CVE" when applicable
+- Prints "NO CVE AVAILABLE" when applicable
 - Automatic retry support
 - Polite rate limiting
 - No Selenium required
 - Automatic output file generation
+- Supports both modern (SNYK-*) and legacy advisory URLs (e.g. npm:jquery:20150627)
+- Rich CLI interface with progress bars and colored output
+- Progress indicator
 
 ---
 
