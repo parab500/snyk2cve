@@ -71,7 +71,7 @@ python3 snyk2cve.py https://security.snyk.io/package/npm/axios/0.21.4
 
 <p align="center">
   <img src="images/demo.png" width="48%">
-  <img src="images/output.png" width="60%">
+  <img src="images/output.png" width="50%">
 </p>
 
 ---
